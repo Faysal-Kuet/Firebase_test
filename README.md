@@ -23,7 +23,7 @@ This project is a basic implementation of **Firebase** services with **Swift** i
 
 | Firestore   |
 |-------------|
-| ![Image 7](./images/firestor.png) |
+| ![Image 7](./images/firestore.png) |
 
 
 ----------
