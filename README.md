@@ -19,7 +19,7 @@ This project is a basic implementation of **Firebase** services with **Swift** i
 
 | Picture 5   | Picture 6   
 |-------------|-------------|
-| ![Image 5](#./images/data_entry.png) | ![Image 6](./images/data.png) |
+| ![Image 5](./images/data_entry.png) | ![Image 6](./images/data.png) |
 
 | Picture 7   |
 |-------------|
