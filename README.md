@@ -9,19 +9,19 @@ This project is a basic implementation of **Firebase** services with **Swift** i
 
 ## Preview Table
 
-| Picture 1   | Picture 2   | Picture 3   |
+| Login   | Register   | Register   |
 |-------------|-------------|-------------|
 | ![Image 1](./images/login.png) | ![Image 2](./images/register.png) | ![Image 3](./images/register_name.png) |
 
-| Picture 4   |
+| User Registered   |
 |-------------|
 | ![Image 4](./images/auth.png) |
 
-| Picture 5   | Picture 6   
+| Data Entry   | Fetched Data |
 |-------------|-------------|
 | ![Image 5](./images/data_entry.png) | ![Image 6](./images/data.png) |
 
-| Picture 7   |
+| Firestore   |
 |-------------|
 | ![Image 7](./images/firestore.png) |
 
