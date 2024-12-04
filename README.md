@@ -15,7 +15,7 @@ This project is a basic implementation of **Firebase** services with **Swift** i
 
 | Picture 4   |
 |-------------|
-| ![Image 4](#) |
+| ![Image 4](./images/auth.png) |
 
 | Picture 5   | Picture 6   
 |-------------|-------------|
@@ -23,7 +23,7 @@ This project is a basic implementation of **Firebase** services with **Swift** i
 
 | Picture 7   |
 |-------------|
-| ![Image 7](#) |
+| ![Image 7](./images/firestore.png) |
 
 
 ----------
